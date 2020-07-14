@@ -4,6 +4,6 @@
 </head>
 <body>
   <h1>Example projects</h1>
-  <footer>andrew agable</footer>
+  <footer>andrew afable</footer>
 </body>
 </html>
